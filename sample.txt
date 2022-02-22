@@ -1,2 +1,4 @@
 this is first line
-trhis is second line
+this is second line
+this is fourth line
+this is third line
